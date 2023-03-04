@@ -1,4 +1,4 @@
-![https://github.com/jvzmarmentini/banner.png](https://github.com/jvzmarmentini/jvzmarmentini/blob/main/banner.png)
+<h1 align="center">Hello There, I'm João Marmentini</h1>
 <h3 align="center">A computer science student and a fiery developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvzmarmentini&label=Profile%20views&color=0e75b6&style=flat" alt="jvzmarmentini" /> </p>
