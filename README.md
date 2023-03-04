@@ -1,4 +1,4 @@
-![banner](https://github.com/jvzmarmentini/github-header-image.png)
+![https://github.com/jvzmarmentini/github-header-image.png](https://github.com/jvzmarmentini/jvzmarmentini/blob/main/github-header-image.png)
 <h3 align="center">A computer science student and a fiery developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvzmarmentini&label=Profile%20views&color=0e75b6&style=flat" alt="jvzmarmentini" /> </p>
